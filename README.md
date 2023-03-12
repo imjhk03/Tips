@@ -8,6 +8,9 @@ Tips for using macOS or iOS
 3. Quick Notes from Control Center
 4. Create a password-protected note
 
+### Calculator App
+1. Swipe left or right to delete the last digit.
+
 ## macOS
 1. option + click on the time on your mac, it will toggle Do Not Disturb mode
 2. Convert Image (.HEIC to .JPG)
