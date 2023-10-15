@@ -7,6 +7,7 @@ Tips for using macOS or iOS
 2. Copy and paste text from scanning a text
 3. Quick Notes from Control Center
 4. Create a password-protected note
+5. [8 Features](https://x.com/mhauken/status/1619334514060443648?s=20)
 
 ### Calculator App
 1. Swipe left or right to delete the last digit.
