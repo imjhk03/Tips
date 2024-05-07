@@ -8,6 +8,7 @@ Tips for using macOS or iOS
 3. Quick Notes from Control Center
 4. Create a password-protected note
 5. [8 Features](https://x.com/mhauken/status/1619334514060443648?s=20)
+6. Type >> to add link of another note
 
 ### Calculator App
 1. Swipe left or right to delete the last digit.
