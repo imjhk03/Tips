@@ -1,5 +1,5 @@
 # Tips
-Tips for using macOS or iOS
+Tips for using Apple Products
 
 ## iOS
 ### Notes App
@@ -12,6 +12,12 @@ Tips for using macOS or iOS
 
 ### Calculator App
 1. Swipe left or right to delete the last digit.
+
+## iPadOS
+### Battery
+1. Create Automation to shut down iPad for battery efficiency [twitter source](https://x.com/Javi/status/1850661330447139223)
+  ![Screenshot 2024-10-28 at 5 13 46 PM](https://github.com/user-attachments/assets/9dfd6a64-6884-4aeb-9091-02f93c23beb1)
+
 
 ## macOS
 1. option + click on the time on your Mac, it will toggle Do Not Disturb mode
