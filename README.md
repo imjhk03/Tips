@@ -13,15 +13,14 @@ Tips for using Apple Products
 ### Calculator App
 1. Swipe left or right to delete the last digit.
 
-## iPadOS
-### Battery
-1. Create Automation to shut down iPad for battery efficiency [twitter source](https://x.com/Javi/status/1850661330447139223)
-  ![Screenshot 2024-10-28 at 5 13 46 PM](https://github.com/user-attachments/assets/9dfd6a64-6884-4aeb-9091-02f93c23beb1)
-
-
 ## macOS
 1. option + click on the time on your Mac, it will toggle Do Not Disturb mode
 2. Convert Image (.HEIC to .JPG)
-  <img width="610" alt="Screenshot 2023-02-26 at 11 01 03 PM" src="https://user-images.githubusercontent.com/28954046/221415190-740e2d36-a7ce-4a30-b17c-cc8d31d0f54c.png">
-  <img width="538" alt="Screenshot 2023-02-26 at 11 02 47 PM" src="https://user-images.githubusercontent.com/28954046/221415244-229bc1f4-7deb-41df-b1f5-cd23daa4f050.png">
+
+    <img width="610" alt="Screenshot 2023-02-26 at 11 01 03 PM" src="https://user-images.githubusercontent.com/28954046/221415190-740e2d36-a7ce-4a30-b17c-cc8d31d0f54c.png">
+    <img width="538" alt="Screenshot 2023-02-26 at 11 02 47 PM" src="https://user-images.githubusercontent.com/28954046/221415244-229bc1f4-7deb-41df-b1f5-cd23daa4f050.png">
+    
 3. To center the Spotlight search on Mac, click and hold the Spotlight icon in the menu bar.
+4. Add keyboard shortcut to quit Safari app for preventing accidentally quiting Safari app.
+
+    <img width="827" alt="Screenshot 2024-11-16 at 4 39 25 PM" src="https://github.com/user-attachments/assets/a0bd1411-6ca7-42df-9497-d1c3c15eab14">
