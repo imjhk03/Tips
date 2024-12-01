@@ -24,3 +24,5 @@ Tips for using Apple Products
 4. Add keyboard shortcut to quit Safari app for preventing accidentally quiting Safari app.
 
     <img width="827" alt="Screenshot 2024-11-16 at 4 39 25 PM" src="https://github.com/user-attachments/assets/a0bd1411-6ca7-42df-9497-d1c3c15eab14">
+
+5. Adjusts the volume in smaller increments with Option + Shift + Volume Up/Down.
